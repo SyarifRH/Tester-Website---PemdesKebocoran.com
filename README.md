@@ -16,6 +16,6 @@ Automation Used:<br>
 
 Job Desk Team :
 
-1. Vergi Nardian Lufyandi <br>
+1. Syarif Ridhohidayatulloh <br>
    Test Case : SignUp<br>
    Pengujian : Manual & Automation <br>
