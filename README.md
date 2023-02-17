@@ -17,5 +17,5 @@ Automation Used:<br>
 Job Desk Team :
 
 1. Syarif Ridhohidayatulloh <br>
-   Test Case : SignUp<br>
+   Test Case : Login<br>
    Pengujian : Manual & Automation <br>
