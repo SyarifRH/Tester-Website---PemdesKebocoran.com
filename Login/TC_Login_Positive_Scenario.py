@@ -46,6 +46,7 @@ login_success()
 def login_success_upper():
     driver = webdriver.Chrome()
     driver.get(url)
+
     driver.maximize_window()
 
     username = driver.find_element(By.NAME, "iduser")
